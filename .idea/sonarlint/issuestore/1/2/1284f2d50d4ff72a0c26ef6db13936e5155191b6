@@ -1,0 +1,10 @@
+
+V
+squid:S106r"9Replace this use of System.out or System.err by a logger.(ø•¶û8ÈÛÝ´£.
+Hsquid:S5411+"*Use the primitive boolean expression here.(‘¼«™8ÈÛÝ´£.
+ksquid:S1192("HDefine a constant instead of duplicating this literal "success" 6 times.(³Ôî“üÿÿÿÿ8ÈÛÝ´£.
+Msquid:S5411C"*Use the primitive boolean expression here.(Ž€ùžùÿÿÿÿ8ÈÛÝ´£.
+Usquid:S1135x"2Complete the task associated to this TODO comment.(€ô©Çùÿÿÿÿ8ÈÛÝ´£.
+Xsquid:S1854ƒ"9Remove this useless assignment to local variable "value".(ÝŒ†í8ÈÛÝ´£.
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ØÆ‰‚ýÿÿÿÿ8ÈÛÝ´£.
+Isquid:S1481ƒ"*Remove this unused "value" local variable.(ÝŒ†í8ÈÛÝ´£.

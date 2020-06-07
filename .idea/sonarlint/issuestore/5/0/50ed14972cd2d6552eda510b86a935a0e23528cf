@@ -1,0 +1,11 @@
+
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‹£ã—8›Ÿ¶‘¨.
+esquid:S00112,"FDefine and throw a dedicated exception instead of using a generic one.(§Çõâ8ˆÓŠ‘¨.
+[
+squid:S1068"9Replace this use of System.out or System.err by a logger.(–ñÂ¢ýÿÿÿÿ8Á‡Š‘¨.
+gsquid:CallToDeprecatedMethod2"8Remove this use of "QueueingConsumer"; it is deprecated.(‰ûÖÜ8Á‡Š‘¨.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(—Ôýç8Œ¹‘¨.
+gsquid:CallToDeprecatedMethod2"8Remove this use of "QueueingConsumer"; it is deprecated.(‰ûÖÜ8Á‡Š‘¨.
+Esquid:S21895""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8Á‡Š‘¨.
+gsquid:CallToDeprecatedMethod6"8Remove this use of "QueueingConsumer"; it is deprecated.(õƒ®û8Á‡Š‘¨.

@@ -1,0 +1,1318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3c4036d-bf55-4b21-8e8f-8893dbfc2f27" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/08caea1ef4e4fa3aa96790e8aeb95ed3564a3a0c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/a/0ab0ecdf131f2004042e89d7a2163eaf4765d32f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0dc76789afddb27184b1bf41b84de1d731e7275a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/1284f2d50d4ff72a0c26ef6db13936e5155191b6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/4/14ef8681802c88f24844204c5112892b2c2b10f8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/1750f8c12269e68438872cd6ca2218d763d3222b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/d/1d3f7b510157fb0859501869cd84f6a06f26acfd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1ed22651937902b532b088d350a50b54a3804bc5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/24a0d32869ae5732a3ff4a732c188ccb75ab2e29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/279fea8510b942eca03d877c2bf869397aaf45f2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d11955e68436ca5b2905975f8cadc5976367f99" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/31d92365a5e9e2b1414d90d3604991c489ea44f9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/3535ee3d00fa74f4933251252acff07ec4e7d704" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/361d02b65c367f82cc069855c22d151d90b533c6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/37eb90db9ffaabb600a9e4673fbf8452cb0e072c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/387312124ca36ac320b5c381ad5672e699b79f95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3da98d93abdab9696e9ef7a10edfd9d8de5e0ad6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3e0d19442fcc8f5a1cb007840bf9f21e0a24bd5b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/40f8fd8c283e958a833552bb9861bbce4282a8b8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/421f8dfb86d1ed92af764dfeca0c8ef67693c311" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/42647c70f056f789d332d9501aee7df4ba580427" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4f31777ea81ead17ae9e1987f0da20601998a00b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/50ed14972cd2d6552eda510b86a935a0e23528cf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/52cbfaee7edf20ea5c512952ff10feeaaec68112" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/550624b67a9286bf08630a911f0b67da842cb523" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/563430ea526e70442f4f683bd0068944e4e62887" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5f1d01722c5e4f868236094dac0e7040f6962325" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/646696ebcd8d951fed7016aa416afaaf523da75c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/647ccf1f5290a4e8e75653b41faad5223797c291" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/656bbad94aa6a03b556a3f3a9aa30010ab82d454" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/65e6e1aca88c231dbbe6250480441e357ce11936" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/6961722c4da87e4fa79b0604b95f75cda0720b21" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/70340c3f1022c1a87d040394dabcf6316ad53299" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/7240f8d67a930fe8819e3c69c976e124f0729bc2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c43000d3f86474127ac4fe4aedb994214cb40aa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7e64eec2981c26467e8a01b3b774c82c20bc0a63" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/0/8081fc24ffda51c1618c47c8cd11ef9efd587379" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/3/835e4b710d99847520d46a042ca3dc7886cbe2ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/862cf005aaca042756a1877ae3524ce01e97df8b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/87781a3f1e7d8edf88e638f33b67cf6285b2f3ac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8aba98576894af3badfcc95b7c5ef5ed22701bd7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/b/8b4129639a146a198cb42879807a822a08c4efc1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/b/8bfe1eb184693b5c1b633f9a5acd53b3e5807af3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8c19b39b81aafcac5eca15ae112fcda12898da32" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8cc44c20ea28b8c82ed1ac4a6d42f396ede92dcc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8ddf0cd34f94789eb8d24d45fcb3b36ac2081d85" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/99d54f6728cc3a390980c7ad4c9ad7b59dae6196" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/c/9ce0c9d16456e64ef447c1a9ddb534f34f1b3767" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a019c0fea7111fd75726bac8ab107a1d5f3523a6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a488d53d8654e3f3ae18364df16f5a59b5811cac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a75d1821b23d6be8e9b42b190e0223cf5bdd32bd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a7f74b1d79a61abeb05e5674c0502cf12784fb1a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/e/aea64c81a39ff56b7b797303514ec2380ea4ee96" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/af45c1905cd04487f06f6b3edfffd98fc8ba839e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/af9ccc1577de4c1d8a17ea667341b640ff26080a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/2/b2cbe6e4502795e2bc762108456908ab5c13f039" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/5/b5e97e2ed918e717ca539d147db1c2614ef70b99" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bc231e565362f7a9ab186c65148eaf11d7867145" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c483766ba7a069342d1e5700a536f155819f8393" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d0fa34f89d02dfa2a7457f8ae3b27a40d10a0137" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/3/d3181fdc500f767c27d08e39ada5d16008b63c8d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e26894ff5d1e4ccc58f19cc9a2f78926cb30d813" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e7bbcaaf647fd174a0b447ce00e87a5b82a2b57b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/eaca242325342ebdddeb310674e3acc9ec7ed0c9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/eb41462d3d573684e796f760ebe36c86fa2ea8da" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f07fddfdc20597c10f2e40c19711408d75f8479c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fe807107649ddf8cfc0f7008f6adce10baf5e6d1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/WXApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/ps/ExchangRecv_one.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/ps/ExchangRecv_two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/routing/RoutingRecv_one.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/routing/RoutingRecv_two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/routing/RoutingSend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/simple/Recv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/simple/Send.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/util/ConnectionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/work/WorkEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/work/WorkRecv_one.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/work/WorkRecv_two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/work/WorkSend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/redis/cofig/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/redis/cofig/ResultCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/redis/cofig/ResultModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/redis/login/LoginConroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/redis/login/LoginMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/redis/login/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/redis/login/LoginServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/redis/login/Ruser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wechat/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wechat/domian/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wechat/mapper/ProductMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wechat/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wechat/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/GetQrCodeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/GetUserInfoServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/WeixinServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/domain/button/AbstractButt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/domain/button/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/domain/button/ClickButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/domain/button/PhotoOrAlbumButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/domain/button/SubButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/domain/button/ViewButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/domain/message/AccessToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/domain/message/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/domain/message/BaseMassage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/domain/message/ImageMassage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/domain/message/Music.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/domain/message/MusicMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/domain/message/NewsMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/domain/message/TextMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/domain/message/VideoMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/domain/message/VoiceMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/domain/template/IndustryInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/domain/template/TemplateData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/domain/template/WxTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/manager/TemplateMessageManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/service/EventPushService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/service/MessageHandleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/service/WeiXinService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/util/ChatRobotUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/util/CreateMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/util/DeleteMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/util/IndustryInfoUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/util/TemplateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/util/TulingApiUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/util/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weixin/test/util/WeiXinParameterUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/jquery-2.2.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/user/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/user/user_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/wx.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/redis/RedisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/wx/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/wx/TestButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/wx/TestChatRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/wx/TestGetUserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/wx/TestImge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/wx/TestIndustryInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/wx/TestQrCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/wx/TestTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/wx/TestUploadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/wx/TestWxMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weixin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weixin_redis" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/ps/ExchangSend.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/ps/ExchangRecv_one.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/ps/ExchangRecv_two.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>starter</find>
+      <find>activemq</find>
+      <find>redis</find>
+      <find>lombok</find>
+      <find>URL</find>
+      <find>check</find>
+      <find>net</find>
+      <find>sha1</find>
+      <find>static</find>
+      <find>redisTemplate</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/wx.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weixin/test/util/WeChatTemplateMsgUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weixin/test/domain/template/DataObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weixin/test/domain/template/TemplateBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weixin/test/domain/template/WxTemplate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weixin/test/domain/template/TemplateData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weixin/test/util/ChatRobotUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weixin/test/util/TemplateUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weixin/test/util/TulingApiProcess.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wx/TestChatRobot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weixin/test/util/CreateMenu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weixin/test/domain/template/IndustryInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weixin/test/domain/message/NameEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weixin/test/domain/em/NameEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weixin/test/domain/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weixin/test/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weixin/test/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wx/TestButton.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/redis/login/LoginConroller.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wx/TestBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weixin/test/service/WeiXinService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wx/TestTemplate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weixin/test/service/MessageHandleService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/redis/login/LoginServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/redis/RedisTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wechat/mapper/ProductMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wechat/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wechat/service/ProductService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wechat/service/impl/ProductServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wechat/domian/Product.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rabbitmq/util/ConnetionUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rabbitmq/util/ConnetionUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rabbitmq/simple/Send.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rabbitmq/simple/Recv.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rabbitmq/work/WorkRevi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rabbitmq/work/WorkRecv.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rabbitmq/ps/ExchangRecv_one.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rabbitmq/ps/ExchangRecv_two.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rabbitmq/ps/ExchangSend.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rabbitmq/work/WorkEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rabbitmq/work/WorkRecv_two.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rabbitmq/work/WorkRecv_one.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rabbitmq/work/WorkSend.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rabbitmq/util/ConnectionUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rabbitmq/routing/RoutingRecv_one.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rabbitmq/routing/RoutingRecv_two.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rabbitmq/routing/RoutingSend.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/routing/RoutingSend.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/ps/ExchangSend.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven\yycg_repository" />
+        <option name="mavenHome" value="E:/maven/apache-maven-3.3.9-bin/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="20" />
+    <option name="width" value="1680" />
+    <option name="height" value="950" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="weixin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="ps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weixin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootSpringBootSettingsPanel" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591526111319" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.rabbitmq.routing" />
+      <recent name="com.rabbitmq.work" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\czbkTest\weixin\src\main\resources\static\jqueryhash\jquery" />
+      <recent name="E:\czbkTest\weixin\src\main\resources\static" />
+      <recent name="E:\czbkTest\weixin\src\main\resources" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.weixin.test.domain.template" />
+      <recent name="com.weixin.test.domain" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\czbkTest\weixin\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.RoutingSend">
+    <configuration name="ExchangRecv_one" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rabbitmq.learn.ps.ExchangRecv_one" />
+      <module name="weixin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rabbitmq.learn.ps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExchangSend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rabbitmq.learn.ps.ExchangSend" />
+      <module name="weixin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rabbitmq.learn.ps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoutingRecv_one" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rabbitmq.learn.routing.RoutingRecv_one" />
+      <module name="weixin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rabbitmq.learn.routing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoutingRecv_two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rabbitmq.learn.routing.RoutingRecv_two" />
+      <module name="weixin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rabbitmq.learn.routing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoutingSend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rabbitmq.learn.routing.RoutingSend" />
+      <module name="weixin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rabbitmq.learn.routing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RoutingSend" />
+        <item itemvalue="Application.RoutingRecv_two" />
+        <item itemvalue="Application.RoutingRecv_one" />
+        <item itemvalue="Application.ExchangSend" />
+        <item itemvalue="Application.ExchangRecv_one" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3c4036d-bf55-4b21-8e8f-8893dbfc2f27" name="Default Changelist" comment="" />
+      <created>1582614593548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582614593548</updated>
+      <workItem from="1582614598959" duration="2521000" />
+      <workItem from="1582679571613" duration="61000" />
+      <workItem from="1582710615871" duration="3108000" />
+      <workItem from="1583111882958" duration="607000" />
+      <workItem from="1583118756920" duration="24378000" />
+      <workItem from="1583303968441" duration="1167000" />
+      <workItem from="1584001876805" duration="1579000" />
+      <workItem from="1584409176576" duration="695000" />
+      <workItem from="1584673861858" duration="677000" />
+      <workItem from="1585531530193" duration="2071000" />
+      <workItem from="1586267257848" duration="377000" />
+      <workItem from="1587188508390" duration="1727000" />
+      <workItem from="1588659628452" duration="10359000" />
+      <workItem from="1588672699439" duration="9953000" />
+      <workItem from="1588728193692" duration="27008000" />
+      <workItem from="1588815035743" duration="20265000" />
+      <workItem from="1588900507868" duration="23386000" />
+      <workItem from="1589082590524" duration="10717000" />
+      <workItem from="1589159307532" duration="1176000" />
+      <workItem from="1589186471031" duration="6705000" />
+      <workItem from="1589332135316" duration="11123000" />
+      <workItem from="1589360704290" duration="1219000" />
+      <workItem from="1589363600013" duration="607000" />
+      <workItem from="1589419598979" duration="387000" />
+      <workItem from="1589420221908" duration="19000" />
+      <workItem from="1589507902956" duration="195000" />
+      <workItem from="1589680051812" duration="311000" />
+      <workItem from="1589769317010" duration="1963000" />
+      <workItem from="1589851058601" duration="586000" />
+      <workItem from="1589942010261" duration="5007000" />
+      <workItem from="1590043330608" duration="8088000" />
+      <workItem from="1590109901111" duration="1745000" />
+      <workItem from="1590129610412" duration="1611000" />
+      <workItem from="1590477868313" duration="1023000" />
+      <workItem from="1590542123504" duration="583000" />
+      <workItem from="1590545813128" duration="69000" />
+      <workItem from="1590547072973" duration="901000" />
+      <workItem from="1590548219441" duration="600000" />
+      <workItem from="1591151521396" duration="29592000" />
+      <workItem from="1591522791193" duration="3031000" />
+    </task>
+    <task id="LOCAL-00001" summary="微信公众号demo">
+      <created>1590547881674</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590547881674</updated>
+    </task>
+    <task id="LOCAL-00002" summary="各种学习demo">
+      <created>1591525599795</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591525599795</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestQrCode_GetOrCodeTicket - 2020.05.21 at 17h 22m 54s.xml">
+      <configuration name="TestQrCode.GetOrCodeTicket" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_ss - 2020.05.22 at 16h 05m 44s.xml">
+      <configuration name="RedisTest.ss" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_ss - 2020.05.22 at 16h 07m 17s.xml">
+      <configuration name="RedisTest.ss" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_ss - 2020.05.22 at 16h 08m 03s.xml">
+      <configuration name="RedisTest.ss" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_ss - 2020.05.22 at 16h 09m 27s.xml">
+      <configuration name="RedisTest.ss" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_ss - 2020.05.22 at 16h 10m 31s.xml">
+      <configuration name="RedisTest.ss" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_ss - 2020.05.22 at 16h 11m 20s.xml">
+      <configuration name="RedisTest.ss" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_ss - 2020.05.22 at 16h 12m 42s.xml">
+      <configuration name="RedisTest.ss" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_ss - 2020.05.22 at 16h 14m 06s.xml">
+      <configuration name="RedisTest.ss" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_ss - 2020.05.22 at 16h 15m 11s.xml">
+      <configuration name="RedisTest.ss" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="217197000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.491921" visible="true" weight="0.24468085" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.508079" side_tool="true" weight="0.2530395" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32764506" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49772036" weight="0.051194537" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49848023" weight="0.051194537" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.19795223" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50227964" side_tool="true" weight="0.26235095" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49848023" weight="0.35494882" />
+      <window_info anchor="bottom" id="SonarLint" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.21843003" />
+      <window_info anchor="bottom" id="Problems" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.13981763" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="CDI" order="6" weight="0.32978722" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.491921" weight="0.26215807" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.508079" side_tool="true" weight="0.2530395" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32879046" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.10221465" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49848023" weight="0.6405451" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50151974" side_tool="true" weight="0.48892674" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49924013" weight="0.5809199" />
+      <window_info anchor="bottom" id="SonarLint" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="Problems" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.13981763" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="CDI" order="6" weight="0.32978722" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="微信公众号demo" />
+    <MESSAGE value="各种学习demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="各种学习demo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/redis/login/LoginConroller.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/redis/login/LoginServiceImpl.java</url>
+          <line>130</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/weixin/test/service/WeiXinService.java</url>
+          <line>192</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weixin/test/util/WeiXinParameterUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="93" column="22" selection-start-line="93" selection-start-column="11" selection-end-line="93" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wx/TestChatRobot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wx/TestImge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wx/TestUploadFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-312">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wx/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wx/TestButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-159">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wx/TestWxMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weixin/test/util/TulingApiUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wx/TestTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="52" column="38" lean-forward="true" selection-start-line="52" selection-start-column="38" selection-end-line="52" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wx/TestIndustryInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wx/TestGetUserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weixin/test/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weixin/test/service/MessageHandleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="98" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wx/TestQrCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weixin/test/service/WeiXinService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="198" column="45" lean-forward="true" selection-start-line="198" selection-start-column="45" selection-end-line="198" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/redis/cofig/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/redis/cofig/ResultCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/redis/cofig/ResultModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-723">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.0.9.RELEASE/spring-data-redis-2.0.9.RELEASE-sources.jar!/org/springframework/data/redis/core/RedisTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2469">
+          <caret line="85" column="13" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/redis/login/LoginService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/redis/login/LoginServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="87" column="8" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/redis/login/LoginConroller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="80" column="23" selection-start-line="80" selection-start-column="23" selection-end-line="80" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weixin/test/domain/message/ImageMassage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weixin/test/domain/message/BaseMassage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="59" column="55" selection-start-line="59" selection-start-column="55" selection-end-line="59" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weixin/test/domain/message/TextMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weixin/test/service/EventPushService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+          <folding>
+            <element signature="e#1164#1165#0" expanded="true" />
+            <element signature="e#1191#1192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wechat/domian/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/redis/RedisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wechat/mapper/ProductMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wechat/service/impl/ProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="746">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wechat/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="217" selection-start-line="217" selection-end-line="217" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wechat/domian/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wechat/service/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="180" column="34" selection-start-line="180" selection-start-column="34" selection-end-line="180" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/simple/Send.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/4.0.2/amqp-client-4.0.2.jar!/com/rabbitmq/client/Channel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="116" column="45" selection-start-line="116" selection-start-column="45" selection-end-line="116" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/simple/Recv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="36" column="55" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="36" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/work/WorkEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/work/WorkRecv_two.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/work/WorkRecv_one.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/util/ConnectionUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/work/WorkSend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="39" column="46" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/routing/RoutingRecv_one.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/routing/RoutingSend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/routing/RoutingRecv_two.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="41" column="52" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/ps/ExchangSend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/ps/ExchangRecv_two.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rabbitmq/learn/ps/ExchangRecv_one.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Bundled Protobuf Distribution</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>weixin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(±’„¤8–êÓ¼.
+Ksquid:S1989I"(Add a "try/catch" block for "getWriter".(ïô†úÿÿÿÿ8¾ğÙ½.
+Fsquid:S1989*"(Add a "try/catch" block for "getWriter".(×–·›8–êÓ¼.
+8squid:S3751"Make this method "public".(½¨¤ó8–êÓ¼.
+8squid:S3751?"Make this method "public".(°€İá8Ëª¬¾.
+Ksquid:S1989C"-Add a "try/catch" block for "getInputStream".(—×¨8’„½.
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ãÌî£
+V
+squid:S106D"9Replace this use of System.out or System.err by a logger.(Ÿ€ôğ8‚Î¹.
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(®ÖĞùÿÿÿÿ8–êÓ¼.
+Qsquid:S1989@"3Add a "try/catch" block for "setCharacterEncoding".(ï‡‹ê8¤íÑ½.
+[
+squid:S106H"9Replace this use of System.out or System.err by a logger.(˜ ½ªÿÿÿÿÿ8ç†ú½.

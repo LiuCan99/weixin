@@ -1,0 +1,13 @@
+
+}squid:S1488Ù"^Immediately return this expression instead of assigning it to the temporary variable "result".(¥’öœ8„ê¡˜Ÿ.
+\
+squid:S106È"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ8„ê¡˜Ÿ.
+Gsquid:S1148µ"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8„ê¡˜Ÿ.
+Gsquid:S1481ê")Remove this unused "post" local variable.(ƒþø)8î¢ˆžŸ.
+lsquid:S2095”"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(†š­î8„ê¡˜Ÿ.
+V
+squid:S106Ì"9Replace this use of System.out or System.err by a logger.(íœ®
+8„ê¡˜Ÿ.
+\
+squid:S106ž"9Replace this use of System.out or System.err by a logger.(åö¡½úÿÿÿÿ8„ê¡˜Ÿ.
+Vsquid:S1854ê"8Remove this useless assignment to local variable "post".(ƒþø)8î¢ˆžŸ.

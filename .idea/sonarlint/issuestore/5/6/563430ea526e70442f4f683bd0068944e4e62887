@@ -1,0 +1,13 @@
+
+Fsquid:S1989-"(Add a "try/catch" block for "getWriter".(×–·›8–êÓ¼.
+Qsquid:S1989C"3Add a "try/catch" block for "setCharacterEncoding".(ï‡‹ê8¤íÑ½.
+V
+squid:S1065"9Replace this use of System.out or System.err by a logger.(±’„¤8–êÓ¼.
+[
+squid:S1063"9Replace this use of System.out or System.err by a logger.(®ÖĞùÿÿÿÿ8–êÓ¼.
+V
+squid:S106G"9Replace this use of System.out or System.err by a logger.(Ÿ€ôğ8‚Î¹.
+[
+squid:S106K"9Replace this use of System.out or System.err by a logger.(˜ ½ªÿÿÿÿÿ8ç†ú½.
+Ksquid:S1989L"(Add a "try/catch" block for "getWriter".(ïô†úÿÿÿÿ8¾ğÙ½.
+Psquid:S1989F"-Add a "try/catch" block for "getInputStream".(ì’¯Ìûÿÿÿÿ8’„½.

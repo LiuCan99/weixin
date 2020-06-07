@@ -1,0 +1,10 @@
+
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8œ“ŒŸ.
+Nsquid:S1481"0Remove this unused "template_id" local variable.(×§œŒ8˜³Ÿ.
+]squid:S1118":Add a private constructor to hide the implicit public one.(±‡˜“øÿÿÿÿ8‚üœŸ.
+]squid:S1854"?Remove this useless assignment to local variable "template_id".(×§œŒ8˜³Ÿ.
+ssquid:UselessImportCheck"IRemove this unused import 'com.weixin.test.domain.template.TemplateData'.(Âò×!8œ“ŒŸ.
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×§œŒ8‰ªŠŸ.
+^squid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8œ“ŒŸ.
+]squid:S1854":Remove this useless assignment to local variable "touser".(Ö±â›ùÿÿÿÿ8˜³Ÿ.
+Nsquid:S1481"+Remove this unused "touser" local variable.(Ö±â›ùÿÿÿÿ8˜³Ÿ.

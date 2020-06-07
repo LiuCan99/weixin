@@ -1,0 +1,6 @@
+
+=squid:S3751 "Make this method "public".(Ïû©Öûÿÿÿÿ8Çïü–Ÿ.
+psquid:UselessImportCheck	"@Remove this unused import 'javax.servlet.annotation.WebServlet'.(™ì¢´şÿÿÿÿ8„—ü–Ÿ.
+8squid:S3751"Make this method "public".(‹¨¯¿8Çïü–Ÿ.
+squid:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ïû©Öûÿÿÿÿ
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹¨¯¿
